@@ -9,6 +9,13 @@ dependencies = [
     "pydantic",
     "pydantic-settings",
     "python-dotenv",
+    "tiktoken>=0.12.0",
+    "openai>=2.5.0",
+    "docling>=2.57.0",
+    "structlog>=25.4.0",
+    "python-json-logger>=4.0.0",
+    "python-multipart>=0.0.20",
+    "sqlalchemy>=2.0.44",
 ]
 
 [project.optional-dependencies]
